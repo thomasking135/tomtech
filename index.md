@@ -2,31 +2,17 @@
 ## Welcome to TomTech
 
 
-You can use the [editor on GitHub](https://github.com/thomasking135/tomtech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi I'm Tom, a young web developer from Christchurch, New Zealand. I'm passionate about web development and design and the impression a good site makes on people. For a web site that stands out from the crowd, let's make some magic! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Design
+At the heart of the great website is beauty. A picture paints a 1000 words and a website paints perhaps even more. We have the ability to design sites which have that wow factor! 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Functionality
 
-```markdown
-Syntax highlighted code block
+In this busy world we're living in functionality matters. Our sites are reliable and will never leave your audience in suspense. Our clear and simple sites will perform precisely when and where expected!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
