@@ -14,14 +14,15 @@ At the heart of the great website is beauty. A picture paints a 1000 words and a
 
 In this busy world we're living in functionality matters. Our sites are reliable and will never leave your audience in suspense. Our clear and simple sites will perform precisely when and where expected!
 
+Check out just one of our products here! [GrannyCart](http://grannycart.club/).
+
+![GrannyCart](https://user-images.githubusercontent.com/62085061/133872093-3fd903d2-1961-42fe-88a7-51fe0b0b4d52.PNG)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Want a TomTech Site! Contact Us here
 
-### Jekyll Themes
+thomasking135@gmail.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomasking135/tomtech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We look forward serving you and your needs!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![me2](https://user-images.githubusercontent.com/62085061/133872127-1398e271-42bf-43ce-b598-d912fd470d88.jpg)
