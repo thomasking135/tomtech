@@ -1,2 +1,2 @@
 # tomtech
-This is the repository for the TomTech website
+The website wizards!
