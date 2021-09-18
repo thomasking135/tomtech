@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+<img src="tt.jpg" alt="TomTech">
+## Welcome to TomTech
+
 
 You can use the [editor on GitHub](https://github.com/thomasking135/tomtech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
