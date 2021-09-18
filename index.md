@@ -25,4 +25,5 @@ thomasking135@gmail.com
 
 We look forward serving you and your needs!
 
-![me2](https://user-images.githubusercontent.com/62085061/133872127-1398e271-42bf-43ce-b598-d912fd470d88.jpg)
+![tea](https://user-images.githubusercontent.com/62085061/133872153-6863a246-c611-4cef-96dc-bba1f9c93bb8.jpg)
+
